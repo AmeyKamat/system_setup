@@ -15,6 +15,4 @@ cd ~/.vim/bundle
 
 git clone https://github.com/preservim/nerdtree.git
 git clone https://github.com/kien/ctrlp.vim.git
-
-
 ```
